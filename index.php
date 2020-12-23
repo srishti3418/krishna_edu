@@ -163,7 +163,7 @@
                 <div class="col span-1-of-3 firstextra">
                     <img src="resources/img/logo.jpg" alt="logo" class="small_logo">
                     <p class="aim"><em>Aim For Excellence</em></p>
-                    <p class="end">KRISHNA EDUCATIONAL INSTITUTION <br>AND SCHOOL</p>
+                    <p class="end">KRISHNA EDUCATION<br>(INSTITUTION AND SCHOOL)</p>
                     <a href="https://www.youtube.com/channel/UCp-fXDQn4G21dSlgCMv4YOQ"><img src="resources/img/youtube-play.png" alt="youtube" class="social"></a>
                     <a href="https://www.facebook.com/Krishna-Educational-Institution-and-school-107804401003782"><img src="resources/img/facebook-new.png" alt="facebook" class="social"></a>
                     <a href="https://www.instagram.com/krishnaedu.kir/"><img src="resources/img/instagram-new.png" alt="instagram" class="social"></a>
