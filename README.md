@@ -9,4 +9,4 @@ Grid.css: This is a file for maintaining grid, and in my project I'm taking only
 
 Normalize.css: When an element has different default styles in different browsers, normalize. css aims to make those styles consistent and in line with modern standards when possible.
 <br>Visit the website mentioned below:<br><br>
-<a href="www.krishna-education.in.net">www.krishna-education.in.net</a>
+<a href="http://www.krishna-education.in.net/">www.krishna-education.in.net</a>
