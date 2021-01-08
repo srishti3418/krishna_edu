@@ -33,7 +33,7 @@
     #iname{
             margin-left: 60px;
             margin-top: 15px;
-            font-size: 35%;
+            font-size: 45%;
     }
     #ilowername{
             padding-left: 25px;
@@ -216,7 +216,7 @@
         height: 25px;
         width: 25px;
         margin-top:5px;
-        margin-left: 140px; 
+        margin-left: 100px; 
     }
     #isocial2{ 
         height: 25px;
@@ -243,7 +243,7 @@
         margin-left: 1px;
     }
     #phone1img{
-        margin-left: 135px;
+        margin-left: 100px;
         height: 20px;
         width: 20px;
     }
@@ -251,7 +251,7 @@
         margin-left: 1px;
     }
     #phone2img{
-        margin-left: 130px;
+        margin-left: 100px;
         height: 20px;
         width: 20px;
     }
@@ -259,7 +259,7 @@
         display: none;
     }
     #mailimg{
-        margin-left: 130px;
+        margin-left: 100px;
         height: 20px;
         width: 20px;
     }
@@ -282,6 +282,7 @@
         font-weight: 300;
         margin-left: 130px;
         margin-top: 7px;
+        ma
     }
     #ipoorpara1{
         margin-left: 40px;
