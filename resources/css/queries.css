@@ -243,7 +243,7 @@
         margin-left: 1px;
     }
     #phone1img{
-        margin-left: 100px;
+        margin-left: 90px;
         height: 20px;
         width: 20px;
     }
@@ -251,7 +251,7 @@
         margin-left: 1px;
     }
     #phone2img{
-        margin-left: 100px;
+        margin-left: 90px;
         height: 20px;
         width: 20px;
     }
@@ -259,19 +259,19 @@
         display: none;
     }
     #mailimg{
-        margin-left: 100px;
+        margin-left: 90px;
         height: 20px;
         width: 20px;
     }
     #iref{
-        margin-top: 100px;
+        margin-top: 90px;
         margin-left: 1px;
     }
     #iadd{
         display: none;
     }
     #addimg{
-        margin-left: 130px;
+        margin-left: 90px;
         height: 25px;
         width: 25px;
         margin-top: 10px;
@@ -280,7 +280,7 @@
         font-size: 14px;
         letter-spacing: 0.3px;
         font-weight: 300;
-        margin-left: 130px;
+        margin-left: 90px;
         margin-top: 7px;
         ma
     }
