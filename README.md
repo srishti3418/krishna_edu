@@ -1,5 +1,5 @@
 # school_management-system
-This project has been deployed in a real school management.
+
 
 Index.html: This html files deal with all tags and tools required for building the website.
 
